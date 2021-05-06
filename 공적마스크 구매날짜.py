@@ -14,3 +14,4 @@ print(calcNumberOfPages(2, 1))
 print(calcNumberOfPages(1, 10))
 print(calcNumberOfPages(10, 10))
 print(calcNumberOfPages(10, 11))
+
